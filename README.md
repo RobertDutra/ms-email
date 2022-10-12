@@ -1,2 +1,2 @@
 # ms-email
-Criando um microservice de envio de email.
+Criação de um microservice de envio de email.
